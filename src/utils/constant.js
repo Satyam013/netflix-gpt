@@ -26,4 +26,4 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "french", name: "French" },
 ];
 
-export const OPENAI_KEY = process.env.REACT_APP_TMDB_KEY;
+export const OPEN_API_KEY = process.env.REACT_APP_TMDB_KEY;
